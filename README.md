@@ -5,5 +5,5 @@ Very simple neural network for handwritten digit classification built using the 
 * Install dependencies 
 `pip install -r requirements.txt`
 
-* Run the manage script in the djtest directory
+* Run the neural network script in the NeuralNetwork directory
 `python NeuralNetwork.py`
